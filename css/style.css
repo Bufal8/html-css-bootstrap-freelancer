@@ -34,3 +34,11 @@ header{
     border: 1px solid #fff;
     border-radius: 5px;
 }
+
+.ms_button-contact{
+    background-color: #19BC9B;
+    color: #fff;
+    border-radius: 5px;
+    border: none;
+    padding: 7px;
+}
