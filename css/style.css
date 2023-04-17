@@ -27,16 +27,26 @@ h1{
 h6{
     color:#fff;
 }
+
+.ms_black{
+    color: #2C3E4F;
+}
+
+.ms_separatore_black{
+    color: #2C3E4F;
+}
+
+img{
+    max-width: 100%;
+    border-radius: 10px;
+}
+
 .ms_start{
-    height: 500px;
     background-color: #19BC9B;
 }
 
-.ms_item{
-    width: 250px;
-    aspect-ratio: 1 / 1;
-    background-color: #000;
-    margin: 50px auto;
+.ms_white{
+    color: #fff;
 }
 
 .ms_about{
