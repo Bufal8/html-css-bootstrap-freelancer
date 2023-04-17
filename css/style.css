@@ -2,16 +2,31 @@ header{
     background-color: #2C3E4F;
 }
 
-.ms_container_header{
-    height: 50px;
-    background-color: #2C3E4F;
+.navbar-brand{
     color: #fff;
 }
 
-.ms_row_header{
-    height: 100%;
+.nav-link{
+    color: #fff
 }
 
+.navbar-toggler-icon{
+    color: #fff;
+}
+
+/* Regole Main */
+    /* Regole Jumbotrone */
+h1{
+    color: #fff;
+}
+
+.ms_separatore{
+    color: #fff;
+}
+
+h6{
+    color:#fff;
+}
 .ms_start{
     height: 500px;
     background-color: #19BC9B;
